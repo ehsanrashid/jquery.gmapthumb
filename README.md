@@ -2,6 +2,7 @@ jquery.gmapthumb
 ================
 
 ! Google Map Thumb - v1.0. - 2012-05-13
+
    Created By: Imran Baloch
    Imran Baloch's Blog: http://weblogs.asp.net/imranbaloch
 
